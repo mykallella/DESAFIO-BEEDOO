@@ -2,9 +2,7 @@
 
 ![preview](./preview1.png)
  
-> Teste prático para Analista de Qualidade de Software Júnior
-
- Projeto realizado durante o desafio para **Analista de Qualidade de Software Júnior** da **BEEDOO**.
+> Projeto realizado durante o desafio para **Analista de Qualidade de Software Júnior** da **BEEDOO**.
  
 ## 📚 Tópicos
 
