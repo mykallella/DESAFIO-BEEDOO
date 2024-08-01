@@ -10,7 +10,7 @@
 
 - User Historys (Gherkin) (https://docs.google.com/document/d/1IhcEOgbB6hIxLhEH7-ENoo0GP40mMQu7XCKNcpJBsmw/edit?usp=sharing)
 - User Historys (Step by Step / Passo a Passo) (https://docs.google.com/document/d/1IhcEOgbB6hIxLhEH7-ENoo0GP40mMQu7XCKNcpJBsmw/edit?usp=sharing)
-- Teste manual (https://docs.google.com/document/d/1W7vPXUF6gWHgGrgfL9emFWy3mO-yoIU2r6-tm_kiR78/edit?usp=sharing)
+- Teste manual (Execução, Evidências e Sugestões) (https://docs.google.com/document/d/1W7vPXUF6gWHgGrgfL9emFWy3mO-yoIU2r6-tm_kiR78/edit?usp=sharing)
 
 ## 📃 Documentação (Motivos para Criação dos Cenários)
 
