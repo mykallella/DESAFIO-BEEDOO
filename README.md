@@ -6,8 +6,8 @@
  
 ## 📚 Tópicos
 
-- User Historys (Gherkin) ( )
-- User Historys (Step by Step / Passo a Passo) (https://docs.google.com/spreadsheets/d/17pnGn8KU46g3Z_fXnm6Wrzy2rzANGnhW1ctL13n2PuQ/edit?usp=drive_link)
+- User Stories (Gherkin) ( )
+- User Stories (Step by Step / Passo a Passo) (https://docs.google.com/spreadsheets/d/17pnGn8KU46g3Z_fXnm6Wrzy2rzANGnhW1ctL13n2PuQ/edit?usp=drive_link)
 - Teste manual (Execução, Evidências e Sugestões) ( )
 
 ## 📖 Documentação (Motivos para Criação dos Cenários)
