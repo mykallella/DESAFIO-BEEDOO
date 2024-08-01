@@ -13,12 +13,12 @@
 ## 📖 User Stories (Documentação)
 
 - Listagem de cursos
-  - `O sistema deve puxar os dados corretos do banco de dados e exibir da maneira correta. 
+  1. `O sistema deve puxar os dados corretos do banco de dados e exibir da maneira correta.` 
 
 - Cadastro de cursos
-  - `O sistema deve cadastrar corretamente os cursos com todos os dados inseridos nas opções obrigatórias e NÃO obrigatórias existentes no formulário.`
-  - `Um curso NÃO deve ser cadastrado sem nome, porque sem o nome do curso não é possível identificá-lo.`
-  - `Um curso deve ser cadastrado sem descrição, porque não interfere na usabilidade do sistema nem no aspecto visual.`
+  1. `O sistema deve cadastrar corretamente os cursos com todos os dados inseridos nas opções obrigatórias e NÃO obrigatórias existentes no formulário.`
+  2. `Um curso NÃO deve ser cadastrado sem nome, porque sem o nome do curso não é possível identificá-lo.`
+  3. `Um curso deve ser cadastrado sem descrição, porque não interfere na usabilidade do sistema nem no aspecto visual.`
   - `Um curso deve ser cadastrado sem instrutor, porque um curso pode durar para sempre ou por muito tempo e pode ter vários instrutores ao longo do tempo e não inserir um instrutor fixo não interfere na usabilidade do sistema nem no aspecto visual.`
   - `Um curso NÃO deve ser cadastrado sem imagem de capa, porque um produto sem imagem de capa fica esteticamente feio, e isso influencia na percepção de qualquer usuário ao utilizar o sistema.`
   - `Um curso deve ser cadastrado sem data de início, porque um curso pode durar para sempre ou por muito tempo e ter usuários iniciando o tempo todo e não inserir uma data de início do curso não interfere na usabilidade do sistema nem no aspecto visual.`
