@@ -8,9 +8,9 @@
  
 ## 📚 Tópicos
 
-- Plano de teste (https://docs.google.com/document/d/1IhcEOgbB6hIxLhEH7-ENoo0GP40mMQu7XCKNcpJBsmw/edit?usp=sharing)
+- User Historys (Gherkin) (https://docs.google.com/document/d/1IhcEOgbB6hIxLhEH7-ENoo0GP40mMQu7XCKNcpJBsmw/edit?usp=sharing)
+- User Historys (Step by Step / Passo a Passo) (https://docs.google.com/document/d/1IhcEOgbB6hIxLhEH7-ENoo0GP40mMQu7XCKNcpJBsmw/edit?usp=sharing)
 - Teste manual (https://docs.google.com/document/d/1W7vPXUF6gWHgGrgfL9emFWy3mO-yoIU2r6-tm_kiR78/edit?usp=sharing)
-- Teste automatizado (https://github.com/mykallella/grupoMGO-teste-pratico/tree/main/teste%20automatizado)
 
 ## 📃 Documentação (Motivos para Criação dos Cenários)
 
