@@ -22,10 +22,10 @@
 ## 🔧 Documentação (Motivos para criação dos cenários)
 
 - Cenário 1: Listagem de cursos – Sem cursos cadastrados
-  - `É necessário verificar se o sistema está puxando os dados corretos do banco de dados e sendo exibidos da maneira correta. Neste cenário não pode haver cursos listados`
+`É necessário verificar se o sistema está puxando os dados corretos do banco de dados e sendo exibidos da maneira correta. Neste cenário não pode haver cursos listados.`
 
 - Cenário 2: Listagem de cursos – Com cursos cadastrados
- - É necessário verificar se o sistema está puxando os dados corretos do banco de dados e sendo exibidos da maneira correta.
+  - É necessário verificar se o sistema está puxando os dados corretos do banco de dados e sendo exibidos da maneira correta.
 
 - Cenário 3: Cadastro de cursos – Com todos os dados
  - É necessário verificar se o sistema está cadastrando os cursos.
