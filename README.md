@@ -12,14 +12,7 @@
 - Teste manual (https://docs.google.com/document/d/1W7vPXUF6gWHgGrgfL9emFWy3mO-yoIU2r6-tm_kiR78/edit?usp=sharing)
 - Teste automatizado (https://github.com/mykallella/grupoMGO-teste-pratico/tree/main/teste%20automatizado)
 
-## 🔧 Ferramentas e Tecnologias
-
-- Python (`v3.11.5`)
-- Selenium (`v4.17.2`)
-- Pytest (`v8.0.0`)
-- pip (`v24.0`)
-
-## 🔧 Documentação (Motivos para Criação dos Cenários)
+## 📃 Documentação (Motivos para Criação dos Cenários)
 
 - Cenário 1: Listagem de cursos – Sem cursos cadastrados
   - `É necessário verificar se o sistema está puxando os dados corretos do banco de dados e sendo exibidos da maneira correta. Neste cenário não pode haver cursos listados.`
