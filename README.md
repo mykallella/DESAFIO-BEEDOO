@@ -25,10 +25,10 @@
   - `É necessário verificar se o sistema está puxando os dados corretos do banco de dados e sendo exibidos da maneira correta. Neste cenário não pode haver cursos listados.`
 
 - Cenário 2: Listagem de cursos – Com cursos cadastrados
-  - `É necessário verificar se o sistema está puxando os dados corretos do banco de dados e sendo exibidos da maneira correta.`
+  - `É necessário verificar se o sistema está puxando os dados corretos do banco de dados e sendo exibidos da maneira correta. Neste cenário os cursos cadastrados devem ser listados.`
 
 - Cenário 3: Cadastro de cursos – Com todos os dados
-  - `É necessário verificar se o sistema está cadastrando os cursos.`
+  - `É necessário verificar se o sistema está cadastrando os cursos com todos os dados inseridos.`
 
 - Cenário 4: Cadastro de cursos – Sem nome do curso
   - `É necessário verificar se o sistema está analisando campos obrigatórios. Um curso não deve ser cadastrado sem nome, porque sem o nome do curso não é possível identificá-lo.`
