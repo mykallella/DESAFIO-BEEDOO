@@ -12,7 +12,7 @@
 - User Historys (Step by Step / Passo a Passo) (https://docs.google.com/document/d/1IhcEOgbB6hIxLhEH7-ENoo0GP40mMQu7XCKNcpJBsmw/edit?usp=sharing)
 - Teste manual (Execução, Evidências e Sugestões) (https://docs.google.com/document/d/1W7vPXUF6gWHgGrgfL9emFWy3mO-yoIU2r6-tm_kiR78/edit?usp=sharing)
 
-## 📃 Documentação (Motivos para Criação dos Cenários)
+## 📖 Documentação (Motivos para Criação dos Cenários)
 
 - Cenário 1: Listagem de cursos – Sem cursos cadastrados
   - `É necessário verificar se o sistema está puxando os dados corretos do banco de dados e sendo exibidos da maneira correta. Neste cenário não pode haver cursos listados.`
