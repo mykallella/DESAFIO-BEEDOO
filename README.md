@@ -10,7 +10,7 @@
 - Plano de teste (Step by Step / Passo a Passo) (https://docs.google.com/spreadsheets/d/1TvvEgmUi5MavWKXks49K-yWRwdNKx4LC_l0Qs9jFQvc/edit?usp=drive_link)
 - Teste manual (Execução, Evidências e Sugestões) ( )
 
-## 📖 User Stories (Documentação)
+## 📖 Documentação (User Stories) 
 
 - Listagem de cursos
   1. `O sistema deve puxar os dados corretos do banco de dados e exibir da maneira correta.` 
