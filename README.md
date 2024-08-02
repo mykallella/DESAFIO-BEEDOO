@@ -6,8 +6,8 @@
  
 ## 📚 Tópicos
 
-- Plano de teste (Gherkin) ( )
-- Plano de teste (Step by Step / Passo a Passo) (https://docs.google.com/spreadsheets/d/17pnGn8KU46g3Z_fXnm6Wrzy2rzANGnhW1ctL13n2PuQ/edit?usp=drive_link)
+- Plano de teste (Gherkin) (https://docs.google.com/spreadsheets/d/1HbVorL4NCnfI0DMhTTzs9ucBT7pYomwo25tbR9DAMm4/edit?usp=drive_link)
+- Plano de teste (Step by Step / Passo a Passo) (https://docs.google.com/spreadsheets/d/1TvvEgmUi5MavWKXks49K-yWRwdNKx4LC_l0Qs9jFQvc/edit?usp=drive_link)
 - Teste manual (Execução, Evidências e Sugestões) ( )
 
 ## 📖 User Stories (Documentação)
